@@ -1,0 +1,9 @@
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Release\HandTextMarking.exe.config
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Release\HandTextMarking.exe
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Release\HandTextMarking.pdb
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.FormAna.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.FormKayit.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.Properties.Resources.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.csproj.GenerateResource.Cache
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.exe
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Release\HandTextMarking.pdb

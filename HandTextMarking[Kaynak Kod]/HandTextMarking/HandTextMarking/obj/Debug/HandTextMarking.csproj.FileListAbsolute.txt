@@ -1,0 +1,22 @@
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.exe.config
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.exe
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.pdb
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.FormAna.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.FormKayit.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.Properties.Resources.resources
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.csproj.GenerateResource.Cache
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.exe
+C:\Users\akadir\documents\visual studio 2015\Projects\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.pdb
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.exe.config
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.exe
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.pdb
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.exe
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.pdb
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.csprojResolveAssemblyReference.cache
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.FormAna.resources
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.FormKayit.resources
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.Properties.Resources.resources
+C:\Users\bilal\Downloads\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.csproj.GenerateResource.Cache
+C:\Users\bilal\Desktop\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\bin\Debug\HandTextMarking.exe.config
+C:\Users\bilal\Desktop\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.exe
+C:\Users\bilal\Desktop\HandTextMarking1.1\HandTextMarking[Kaynak Kod]\HandTextMarking\HandTextMarking\obj\Debug\HandTextMarking.pdb
